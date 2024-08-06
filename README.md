@@ -105,7 +105,7 @@ Run the following SQL queries to analyze the data:
    ```
 
 2. **Interactive Dashboard**  
-   Explore the interactive dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGNhNjAwZWMtZjhmOS00N2FiLTgwYjMtZGMxMDAxODRmMzZkIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9&embedImagePlaceholder=true)
+   Explore the interactive dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGNhNjAwZWMtZjhmOS00N2FiLTgwYjMtZGMxMDAxODRmMzZkIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9&embedImagePlaceholder=true) (Click on view interactive content for better experience.)
 
 ---
 
